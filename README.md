@@ -1,10 +1,10 @@
 # Dice.py
-*descrição*:
+**descrição**:
 
 Um projeto simples feito em python
 que simula um dado de 7 lados.
 
-*Requisitos*
+**Requisitos**:
 
 - Python 3.
 - Biblioteca Random.
