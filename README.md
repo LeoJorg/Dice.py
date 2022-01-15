@@ -8,5 +8,5 @@ que simula um dado de 7 lados.
 
 - Python 3.
 - Biblioteca Random.
-
+- Biblioteca OS.
 
